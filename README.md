@@ -74,13 +74,6 @@ You merely adopted it.
 ## ╚══════════════════════════════════════════════════════╝
 
 ---
-
-## 🐍 SYSTEM ACTIVITY (SNAKE COMMIT)
-
-<p align="center">
-  <img src="https://github.com/prashansha005/prashansha005/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## ☕ FINAL LINE
