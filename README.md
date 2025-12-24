@@ -73,9 +73,6 @@ You merely adopted it.
 
 ## ╚══════════════════════════════════════════════════════╝
 
----
----
-
 ## ☕ FINAL LINE
 
 > I don’t chase trends.  
