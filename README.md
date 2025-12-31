@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=prashanshaneupane)
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
@@ -55,7 +54,7 @@ You merely adopted it.
 
 ---
 
-## ╔═══ CONNECT TO THE SYSTEM ═══════════════════════════╗
+##  CONNECT TO THE SYSTEM 
 
 <p align="center">
   <a href="https://github.com/prashansha005">
@@ -72,7 +71,7 @@ You merely adopted it.
   </a>
 </p>
 
-## ╚══════════════════════════════════════════════════════╝
+##
 
 ## ☕ FINAL LINE
 
