@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prashansha+Neupane;I+build+real+products;Simple+Clean+Scalable" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=Prashansha+Neupane;I+build+real+products;Simple+Clean+Scalable" />
 </p>
 
 <h1 align="center">Prashansha Neupane</h1>
@@ -53,13 +53,13 @@
 
 <p align="center">
   <a href="https://github.com/prashansha005">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
