@@ -1,74 +1,83 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=Prashansha+Neupane;I+build+real+products;Simple+Clean+Scalable" />
+<pre>
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     I DON'T CODE APPLICATIONS                             ║
+║           I BUILD PRODUCTS                                ║
+║  From idea → UI → deployment. Clean. Scalable. Real.      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 </p>
 
 <h1 align="center">Prashansha Neupane</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-<i>simple ideas • clean execution • real products</i>
+<i>I don’t code applications — I build products.</i>
 </p>
 
 ---
 
-## Tech Stack
+## ⚔️ WEAPON SYSTEMS ⚔️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,github,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,figma,photoshop,illustrator,aftereffects,vercel,netlify,git,github,vscode" />
 </p>
 
 ---
 
-## Philosophy
+<p align="center">
+THE STACK IS MINE.  
+You merely adopted it.
+</p>
 
-- UI without UX is noise  
+---
+
+## 🧠 SYSTEM PHILOSOPHY
+
+- UI is useless without UX  
 - Design must solve problems  
-- Products over projects  
-- Performance matters  
+- Products > Projects  
+- Performance is a feature  
 
 ---
 
-## What I Build
+## 🚀 WHAT I BUILD
 
-- Responsive websites  
-- Product-focused web applications  
-- Deployable real-world projects  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashansha005&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashansha005&hide_border=true" />
-</p>
+- Responsive frontend interfaces  
+- Product-focused web experiences  
+- Brand visuals & motion designs  
+- Deploy-ready real-world projects  
 
 ---
 
-## Connect
+##  CONNECT TO THE SYSTEM 
 
 <p align="center">
   <a href="https://github.com/prashansha005">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/MAIL-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
+##
 
-## Final
+## ☕ FINAL LINE
 
-> I build what matters.
+> I don’t chase trends.  
+> I ship products.
 
 <p align="center">
-Built by Prashansha Neupane
+⚡ Built by Prashansha Neupane ⚡
 </p>
