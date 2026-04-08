@@ -1,83 +1,74 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     I DON'T CODE APPLICATIONS                             ║
-║           I BUILD PRODUCTS                                ║
-║  From idea → UI → deployment. Clean. Scalable. Real.      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prashansha+Neupane;I+build+real+products;Simple+Clean+Scalable" />
 </p>
 
 <h1 align="center">Prashansha Neupane</h1>
-<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-<i>I don’t code applications — I build products.</i>
+<i>simple ideas • clean execution • real products</i>
 </p>
 
 ---
 
-## ⚔️ WEAPON SYSTEMS ⚔️
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,figma,photoshop,illustrator,aftereffects,vercel,netlify,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,github,python" />
 </p>
 
 ---
 
-<p align="center">
-THE STACK IS MINE.  
-You merely adopted it.
-</p>
+## Philosophy
 
----
-
-## 🧠 SYSTEM PHILOSOPHY
-
-- UI is useless without UX  
+- UI without UX is noise  
 - Design must solve problems  
-- Products > Projects  
-- Performance is a feature  
+- Products over projects  
+- Performance matters  
 
 ---
 
-## 🚀 WHAT I BUILD
+## What I Build
 
-- Responsive frontend interfaces  
-- Product-focused web experiences  
-- Brand visuals & motion designs  
-- Deploy-ready real-world projects  
+- Responsive websites  
+- Product-focused web applications  
+- Deployable real-world projects  
 
 ---
 
-##  CONNECT TO THE SYSTEM 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashansha005&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashansha005&hide_border=true" />
+</p>
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/prashansha005">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/MAIL-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-##
+---
 
-## ☕ FINAL LINE
+## Final
 
-> I don’t chase trends.  
-> I ship products.
+> I build what matters.
 
 <p align="center">
-⚡ Built by Prashansha Neupane ⚡
+Built by Prashansha Neupane
 </p>
