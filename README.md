@@ -36,7 +36,7 @@
 ### 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=prashansha005&theme=calm&hide_border=true&background=ffffff&ring=6d28d9&fire=f472b6&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=888888&currStreakNum=222222&sideNums=222222" />
----
+
 *I don't chase trends. I ship products.*
 
 <sub>Built by Prashansha Neupane ✦</sub>
