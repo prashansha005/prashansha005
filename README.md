@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/prashansha005" width="80" style="border-radius:50%" alt="Prashansha Neupane" />
-
+  
 # Prashansha Neupane
 
 <sub>CREATIVE DEVELOPER & DESIGNER</sub>
