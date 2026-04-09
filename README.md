@@ -1,83 +1,53 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<div align="center">
 
-<p align="center">
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║     I DON'T CODE APPLICATIONS                             ║
-║           I BUILD PRODUCTS                                ║
-║  From idea → UI → deployment. Clean. Scalable. Real.      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
-</p>
+<img src="https://avatars.githubusercontent.com/prashansha005" width="80" style="border-radius:50%" alt="Prashansha Neupane" />
 
-<h1 align="center">Prashansha Neupane</h1>
-<h3 align="center">Frontend Developer</h3>
+# Prashansha Neupane
 
-<p align="center">
-<i>I don’t code applications — I build products.</i>
-</p>
+<sub>CREATIVE DEVELOPER & DESIGNER</sub>
+
+*I don't code applications — I build products.*
 
 ---
 
-## ⚔️ WEAPON SYSTEMS ⚔️
+### 🛠 Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,figma,photoshop,illustrator,aftereffects,vercel,netlify,git,github,vscode" />
-</p>
-
----
-
-<p align="center">
-THE STACK IS MINE.  
-You merely adopted it.
-</p>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-2965F1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🧠 SYSTEM PHILOSOPHY
+### 💭 Philosophy
 
-- UI is useless without UX  
-- Design must solve problems  
-- Products > Projects  
-- Performance is a feature  
+`UI is useless without UX` &nbsp; `Design must solve problems` &nbsp; `Products > Projects` &nbsp; `Performance is a feature`
 
 ---
 
-## 🚀 WHAT I BUILD
+### 🚀 What I Build
 
-- Responsive frontend interfaces  
-- Product-focused web experiences  
-- Brand visuals & motion designs  
-- Deploy-ready real-world projects  
+| | |
+|---|---|
+| 🟣 **Frontend interfaces** — Responsive, accessible, pixel-perfect | 🔵 **Web experiences** — Product-focused and user-first |
+| 🩷 **Brand visuals** — Motion, identity, and illustration | 🟢 **Deploy-ready projects** — Real-world, shipped, and scalable |
 
 ---
 
-##  CONNECT TO THE SYSTEM 
+### 🔗 Connect
 
-<p align="center">
-  <a href="https://github.com/prashansha005">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/MAIL-222222?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashansha005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashansha-neupane-0ab063360?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupane.prashansha2005.com)
 
-##
+---
 
-## ☕ FINAL LINE
+*I don't chase trends. I ship products.*
 
-> I don’t chase trends.  
-> I ship products.
+<sub>Built by Prashansha Neupane ✦</sub>
 
-<p align="center">
-⚡ Built by Prashansha Neupane ⚡
-</p>
+</div>
