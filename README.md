@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Prashansha Neupane
 
 <sub>CREATIVE DEVELOPER & DESIGNER</sub>
@@ -20,9 +20,14 @@
 
 ---
 
-### 💭 Philosophy
+### 📊 GitHub Stats
 
-`UI is useless without UX` &nbsp; `Design must solve problems` &nbsp; `Products > Projects` &nbsp; `Performance is a feature`
+<img src="https://github-readme-stats.vercel.app/api?username=prashansha005&show_icons=true&theme=calm&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=6d28d9&text_color=444444" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashansha005&layout=compact&theme=calm&hide_border=true&bg_color=ffffff&title_color=6d28d9&text_color=444444" height="150" />
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=prashansha005&theme=calm&hide_border=true&background=ffffff&ring=6d28d9&fire=f472b6&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=888888&currStreakNum=222222&sideNums=222222" />
 
 ---
 
@@ -40,7 +45,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashansha005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.prashanshaneupane.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashansha-neupane-0ab063360?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupane.prashansha2005.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neupane.prashansha2005com)
 
 ---
 
