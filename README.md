@@ -19,12 +19,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashansha005&show_icons=true&theme=calm&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=6d28d9&text_color=444444" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashansha005&layout=compact&theme=calm&hide_border=true&bg_color=ffffff&title_color=6d28d9&text_color=444444" height="150" />
-
 ### 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=prashansha005&theme=calm&hide_border=true&background=ffffff&ring=6d28d9&fire=f472b6&currStreakLabel=6d28d9&sideLabels=6d28d9&dates=888888&currStreakNum=222222&sideNums=222222" />
