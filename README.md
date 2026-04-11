@@ -14,12 +14,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,python,github" />
 </p>
 
+---
 
 ### 🚀 What I Build
 | | |
 |---|---|
 | 🟣 **Frontend interfaces** — Responsive, accessible, pixel-perfect | 🔵 **Web experiences** — Product-focused and user-first |
 | 🩷 **Brand visuals** — Motion, identity, and illustration | 🟢 **Deploy-ready projects** — Real-world, shipped, and scalable |
+
 ---
 ### 🔗 Connect
 
