@@ -1,6 +1,6 @@
 <div align="center">
 
-# Prashansha Neupane
+# Hi there! 👋, I’m Prashansha Neupane
 
 <sub>CREATIVE DEVELOPER & DESIGNER</sub>
 
