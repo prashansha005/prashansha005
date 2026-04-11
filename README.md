@@ -10,13 +10,9 @@
 
 ### 🛠 Stack
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-2965F1?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,python,github" />
+</p>
 ---
 ### 🚀 What I Build
 
